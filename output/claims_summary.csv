@@ -1,0 +1,5 @@
+claim_type,total_claims,total_claim_amount,high_value_claims,claims_requiring_review
+MEDICAL,4,31575.50,2,2
+PHARMACY,2,326.74,0,0
+DENTAL,1,850.25,0,0
+VISION,1,430.00,0,0
