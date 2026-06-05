@@ -69,7 +69,7 @@ healthcare-claims-lakehouse-databricks/
 
 ## How to Run
 
-This project is designed so hiring teams can review both the healthcare lakehouse architecture and the runnable claims validation logic.
+This project demonstrates the healthcare lakehouse architecture, synthetic claims data flow, Delta Lake layer design, and runnable claims validation logic.
 
 ### 1. Review the Project Design
 
